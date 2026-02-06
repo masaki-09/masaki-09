@@ -39,9 +39,9 @@
 
 ### 👾 Discord Status (Live)
 <p align="center">
-<a href="https://discord.com/users/932552478279499786">
-  <img src="https://lanyard.cnrad.dev/api/932552478279499786?theme=dark&bg=00000000&animated=true&hide_discrim=true&borderRadius=10px&idleMessage=Probably%20sleeping..." />
-</a>
+  <a href="https://discord.com/users/932552478279499786">
+    <img src="https://lanyard.cnrad.dev/api/932552478279499786?theme=dark&bg=00000000&animated=true&hide_discrim=true&borderRadius=10px&idleMessage=Probably%20sleeping...&refresh=true" alt="Discord Status" />
+  </a>
 </p>
 
 ### 🧩 Fun & Dynamics
