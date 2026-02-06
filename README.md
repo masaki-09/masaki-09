@@ -2,11 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Masaki%20Furukawa&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Student%20%26%20Creative%20Developer&descAlignY=55&descAlign=62" alt="Header" width="100%"/>
 </div>
 
-<h3 align="center">
+<br />
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Student+at+Kagawa+Kosen;Lover+of+Space+%26+Math+🚀;Python+Developer+🐍;Building+Cool+Web+Apps+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Student+at+Kagawa+Kosen;Lover+of+Space+%26+Math;Python+Developer;Building+Cool+Web+Apps" alt="Typing SVG" />
   </a>
-</h3>
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://github.com/masaki-09/masaki-09/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
