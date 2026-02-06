@@ -27,12 +27,17 @@
 
 ### 📊 Real-time Stats
 <div align="center">
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=masaki-09&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=masaki-09&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
   </a>
+
   <br/><br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=masaki-09&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki-09&layout=donut&theme=radical&hide_progress=false" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=masaki-09&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki-09&layout=donut&theme=radical" alt="Langs" />
+
 </div>
 
 ---
